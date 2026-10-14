@@ -1,0 +1,11 @@
+# 虚拟环境
+.venv/
+
+# Python缓存文件
+__pycache__/
+*.pyc
+
+# PyInstaller打包产物
+build/
+dist/
+*.spec
